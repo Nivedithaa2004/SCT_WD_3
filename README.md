@@ -94,5 +94,5 @@ cd SCT_WD_03
 
 **Niveditha Hanwal**
 
-🔗 GitHub: https://github.com/Nivedithaa2004
+🔗 GitHub: https://github.com/Nivedithaa2004     
 💼 LinkedIn: https://www.linkedin.com/in/niveditha-hanwal-9a1b2523a/
